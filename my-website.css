@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+img#my-pic {
+    margin: 10px 10px 30px 0px;
+    }
+
+
+p#my-bio {
+    width: 500px;
+}
+
+section#publications {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    width: 200px;
+    padding: 10px 10px 30px 20px;
+    margin: 0px, 0px, 20px, 30px;
+}
+
+header > h2 {
+    font-weight: bold;
+}
+
+.links ol {
+    list-style-type: none;
+}
+
+.link {
+    display: inline-block;
+}
+
+
+
+
+
+
+
